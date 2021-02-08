@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "start": "node src/main.js",
+        "test": "mocha src/tests/testQ1.js && mocha src/tests/testQ2.js"
+    }
+}
